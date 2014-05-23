@@ -1,9 +1,9 @@
 .container { min-width: 1010px;  }
 .container .myflower { width: 100%; height: 610px; margin-top: 100px; text-align: center; }
-.container .mytitle { background-image: url(../image/savour.png); background-repeat: no-repeat; background-position: center; width: 100%; height: 100px; margin-bottom: 120px; }
+.container .mytitle { cursor: pointer; background-image: url(../image/savour.png); background-repeat: no-repeat; background-position: center; width: 100%; height: 100px; margin-bottom: 120px; }
 
 /*jqPuzzle plugin*/
 .jqPuzzle { padding: 0px; border: none; background-color: #FFFFFF; margin: 0 auto; }
 .jqPuzzle .jqp-wrapper { background-color: #FFFFFF; }
 .jqPuzzle .jqp-piece { color: #E43737; }
-.jqPuzzle .jqp-controls { float: right; margin-top: 170px; }
+.jqPuzzle .jqp-controls { float: right; position: relative !important; right: -74px; top: -8px; }

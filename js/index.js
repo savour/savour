@@ -25,4 +25,9 @@ $(function(){
     };   
     $('#flower').jqPuzzle(mySettings); 
 
+    //savour click
+    $(".mytitle").click(function() {
+        window.location.href = "./login.html";
+    });
+
 });
