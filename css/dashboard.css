@@ -12,10 +12,11 @@ body { padding-top: 70px; overflow-x: hidden; }
 
 /*dashboard 左侧导航*/
 #nav-menu > li { margin-bottom: 3px; }
-.menuhere { background: #eee; box-shadow: none; border-radius: 6px; font-size: 18px; color: #656565; }    
+.menuhere, .fakemenuhere { background: #eee; box-shadow: none; border-radius: 6px; font-size: 18px; color: #656565; }    
 .glyphicon { margin-right: 10px; }
 .nav>li>a:hover, .nav>li>a:focus { color: #fff; background: #484848; }
-.current { color: #fff; background: #484848; }   
+.current { color: #fff !important; background: #484848 !important; }
+.submenu { background: #D2D7E4; box-shadow: none; border-radius: 6px; font-size: 16px; line-height: 16px; color: #656565; border: solid 1px #eee;}   
 
 
 
