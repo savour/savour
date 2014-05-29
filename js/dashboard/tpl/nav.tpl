@@ -3,18 +3,18 @@
     {@if it.show == true }
         {@if k == 0 }
         <a class="menuhere current" href="${it.myurl}">
-            <span class="glyphicon glyphicon-home"></span>${it.name}
+            <span class="glyphicon ${it.icon}"></span>${it.name}
         </a> 
         {@/if}
         {@if k != 0 }
         <a class="menuhere" href="${it.myurl}">
-            <span class="glyphicon glyphicon-home"></span>${it.name}
+            <span class="glyphicon ${it.icon}"></span>${it.name}
         </a> 
         {@/if}
     {@/if}
     {@if it.show == false }
      <a class="fakemenuhere" href="javascript:void(0)">
-        <span class="glyphicon glyphicon-thumbs-up"></span>${it.name}
+        <span class="glyphicon ${it.icon}"></span>${it.name}
     </a>
     <ul class="nav navsub-add">
         {@each it.sub as it2}
