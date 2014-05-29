@@ -11,7 +11,10 @@ seajs.config({
         "backbone": "./js/dashboard/backbone-min.js",
         "juicer": "./js/Juicer/build/juicer-min.js",
         //写在require中，路径针对js
-        "nav_view": "./nav.js"
+        "nav_view": "./nav.js",
+        "mySavour_view": "./mySavour.js",
+        //just for dev
+        "test": "./js/test.js"
     },
 
     preload: [
@@ -21,7 +24,8 @@ seajs.config({
     'bootstrap',
     'underscore',
     'backbone',
-    'juicer'
+    'juicer',
+    'test'
     ],
 
     debug: true,

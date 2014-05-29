@@ -9,7 +9,6 @@ body { padding-top: 70px; overflow-x: hidden; }
     #nav { display: none; }
 }
 
-
 /*dashboard 左侧导航*/
 #nav-menu > li { margin-bottom: 3px; }
 .menuhere, .fakemenuhere { background: #eee; box-shadow: none; border-radius: 6px; font-size: 18px; color: #656565; }    
@@ -18,5 +17,11 @@ body { padding-top: 70px; overflow-x: hidden; }
 .current { color: #fff !important; background: #484848 !important; }
 .submenu { background: #D2D7E4; box-shadow: none; border-radius: 6px; font-size: 16px; line-height: 16px; color: #656565; border: solid 1px #eee;}   
 
-
+/*title*/
+.forTr { height: 45px; }
+.titleTop { font-size: 18px; background: #eee; }
+.titleTop th { font-weight: bold; }
+th, td { text-align: center; }
+.titleNum { height: 150px; font-size: 90px; }
+.titleBottom { color: #fff; font-size: 18px; background: #484848; }
 
