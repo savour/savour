@@ -10,9 +10,6 @@ define(function(require, exports, module) {
     navView.model = preload_data.toJSON(); //将model引入view中
     navView.render();
 
-    //加载控制器中所用页面
-    var mySavour_view = require('mySavour_view');
-
     //控制器
     var Router = Backbone.Router.extend({
         routes: {
@@ -23,9 +20,7 @@ define(function(require, exports, module) {
             '!/iNeed': 'iNeed'
         },
         mySavour: function(){
-            mySavourView = new mySavour_view();
-            mySavourView.model = preload_data;
-            mySavourView.render();
+            seajs.use('mySavour');
         },
         matchClothes: function(){
             //alert("matchClothes");

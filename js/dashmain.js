@@ -2,6 +2,7 @@
 seajs.config({
     alias: {
         //backbone mvc 相关 
+
         //preload的插件，路径针对savourDashboard.html
         "PRELOAD_DATA": "./js/dashboard/preload-data.js",
         "jquery": "./js/jquery-1.10.2.min.js",
@@ -12,10 +13,14 @@ seajs.config({
         "juicer": "./js/Juicer/build/juicer-min.js",
         "highcharts": "./js/dashboard/highcharts.js",
         //"exporting": "./js/dashboard/exporting.js",
-        //写在require中，路径针对js
+
+        //view 写在require中，路径针对js
         "nav_view": "./nav.js",
-        "mySavour_view": "./mySavour.js",
         "top_view": "./top.js",
+
+        //just js for view all
+        "mySavour": "./js/dashboard/mySavour.js",
+
         //just for dev
         "test": "./js/test.js"
     },
