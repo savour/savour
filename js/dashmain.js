@@ -10,6 +10,8 @@ seajs.config({
         "underscore": "./js/dashboard/underscore-min.js",
         "backbone": "./js/dashboard/backbone-min.js",
         "juicer": "./js/Juicer/build/juicer-min.js",
+        "highcharts": "./js/dashboard/highcharts.js",
+        //"exporting": "./js/dashboard/exporting.js",
         //写在require中，路径针对js
         "nav_view": "./nav.js",
         "mySavour_view": "./mySavour.js",
@@ -25,6 +27,8 @@ seajs.config({
     'underscore',
     'backbone',
     'juicer',
+    'highcharts',
+    //'exporting',
     'test'
     ],
 

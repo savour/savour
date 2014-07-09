@@ -25,3 +25,7 @@ th, td { text-align: center; }
 .titleNum { height: 150px; font-size: 90px; }
 .titleBottom { color: #fff; font-size: 18px; background: #484848; }
 
+/*top5*/
+.top5Num { font-size: 18px; }
+.top5Clothes { font-size: 18px; height: 130px; }
+.top5Clothes td { text-align: center; }

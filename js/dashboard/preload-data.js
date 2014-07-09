@@ -10,6 +10,7 @@ var data = {
         ]},
         { name:'savour上传', icon:'glyphicon-arrow-up', myurl:'#!/savourUpload', show: true },
         { name:'我缺少的', icon:'glyphicon-search', myurl:'#!/iNeed', show: true }
-    ] 
+
+    ]  
 
 };
