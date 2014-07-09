@@ -15,6 +15,7 @@ seajs.config({
         //写在require中，路径针对js
         "nav_view": "./nav.js",
         "mySavour_view": "./mySavour.js",
+        "top_view": "./top.js",
         //just for dev
         "test": "./js/test.js"
     },

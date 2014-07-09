@@ -12,27 +12,29 @@
 <link rel="stylesheet" type="text/css" href="./css/dashboard.css">
 </head>
 <body>
-    <div class="navbar navbar-fixed-top navbar-inverse">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="./savourDashboard.html">SAVOUR</a>
-            </div>
-            <div class="navbar-collapse in" style="height: auto;">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="./savourDashboard.html">操作面板</a></li>
-                    <li><a href="./introduce.html">savour介绍</a></li>
-                    <li><a href="./contact.html">联系我们</a></li>
-                    <li><a href="./index.html">去玩拼图</a></li>
-                </ul>
-            </div>
+
+    <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="./savourDashboard.html">SAVOUR</a>
         </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="./savourDashboard.html">操作面板</a></li>
+            <li><a href="./introduce.html">savour介绍</a></li>
+            <li><a href="./contact.html">联系我们</a></li>
+            <li><a href="./index.html">去玩拼图</a></li>
+          </ul>
+        </div><!-- /.nav-collapse -->
+      </div><!-- /.container -->
     </div>
+
     <div class="container">
         <div class="row">
             <div class="col-sm-3" id="nav">
@@ -41,7 +43,7 @@
                 </div>
             </div>
             <div class="col-xs-12 col-sm-9">
-                <div class="table-responsive">
+                <div id="top" class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                         <tr class="forTr titleTop">
@@ -62,9 +64,18 @@
                         </tbody>
                     </table>
                 </div>
-                <div id="pie1" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
-                <div id="pie2" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
-                <div id="pie3" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+                <div class="row">
+                    <div class="col-xs-3">
+                        <h5 style="text-align: center;">请选择查看条件</h5>
+                        <div class="btn-group-vertical" style="width: 100%;">
+                            <button type="button" class="btn btn-success btn-group-lg" name="上衣各类型所占比例">上衣 + 类型</button>
+                            <button type="button" class="btn btn-warning btn-group-lg" name="裤子/裙子各类型所占比例">裙裤 + 类型</button>
+                            <button type="button" class="btn btn-danger btn-group-lg" name="鞋子各类型所占比例">鞋子 + 类型</button>
+                        </div>
+                    </div>
+
+                    <div class="col-xs-9" id="pie1" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+                </div>
                 <div class="table-responsive">
                     <table class="table table-bordered">
                         <tr class="forTr titleTop">

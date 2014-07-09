@@ -1,3 +1,17 @@
-Hello World!
-test this!
-tracy
+Savour
+
+时间：2014-07-09
+/////////////////////////////////////////////////
+
+前端：backbone，bootstrap，seajs，juicer
+后端：待定
+数据库：mysql
+
+前端主要目录：
+静态页面：savour/
+css：savour/css/
+简单页面及插件js：savour/js/
+savourDashboard的js：savour/js/dashboard/
+tpl：savour/js/dashboard/tpl
+
+savourDashboard单页面无刷设计
