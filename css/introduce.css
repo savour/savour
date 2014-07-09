@@ -4,3 +4,98 @@ body { padding-top: 70px; overflow-x: hidden; }
 @media screen and (min-width: 768px) { /*大于768的尺寸*/
     .navbar-nav { float: right; }  
 }
+
+/*headline的css*/
+.headline {
+	padding: 0 0 60px;
+	text-align: center;
+	color: #34495e;
+}
+/*headline_logo*/
+.headline_logo {
+	font:900 90px/100px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	letter-spacing: -2px;
+	margin: 10px 0;
+}
+/*logo*/
+.headline_logo .logo {
+	background: url(../image/flower_logo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 277px;
+	height: 428px;
+	margin: 0 auto 26px;
+	overflow: hidden;
+	width: 314px;
+	padding-top: 342px;
+}
+.headline_logo .small {
+	color: rgba(52, 73, 94, 0.30000000000000004);
+	display: block;
+	font-size: 22px;
+	font-weight: 700;
+	letter-spacing: 0;
+	padding-top: 5px;
+}
+/*section-title*/
+.section-title {
+	font: 900 32px/40px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin: 10px 0 50px;
+}
+/*button_row*/
+.button_row {
+	margin-bottom: 20px;
+}
+/*aaa button style*/
+.btn-block {
+	white-space: normal;
+}
+.btn-lg {
+	padding: 10px 19px;
+	font-size: 17px;
+	line-height: 1.471;
+	border-radius: 6px;
+}
+.btn-a {
+	color: #ffffff;
+	background-color: #1abc9c;
+}
+.btn {
+	border: none;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 2.4;
+	border-radius: 4px;
+	padding: 10px 15px;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-webkit-transition: border .25s linear, color .25s linear, background-color .25s linear;
+	transition: border .25s linear, color .25s linear, background-color .25s linear;
+}
+.btn-b {
+	color: #ffffff;
+	background-color: #f1c40f;
+}
+.btn-c {
+	color: #ffffff;
+	background-color: #bdc3c7;
+}
+.btn-d {
+	color: #ffffff;
+	background-color: #e74c3c;
+}
+.btn-e {
+	color: #ffffff;
+	background-color: #2ecc71
+}
+.btn-f {
+	color: #ffffff;
+	background-color: #34495e;
+}
+.btn-g {
+	color: #ffffff;
+	background-color: #3498db;
+}
+.btn-h {
+	color: #ffffff;
+	background-color: #9b59b6;
+}
