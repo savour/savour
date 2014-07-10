@@ -1,7 +1,10 @@
 define(function(require, exports, module) {
 
-    ///////////////top///////////////////
-    
+    /////////////////top///////////////////
+
+    //top tpl
+    $("#show").append('<div id="top" class="table-responsive"></div>');
+
     //top model
     var top_model = Backbone.Model.extend({
         url: '../../fake/top.json',
@@ -22,6 +25,8 @@ define(function(require, exports, module) {
          }
      });
     //topView.model = topModel.save();
+
+    /////////////////top///////////////////
 
 
 

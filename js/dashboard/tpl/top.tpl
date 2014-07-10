@@ -2,7 +2,7 @@
 <table class="table table-bordered">
       <thead>
             <tr class="forTr titleTop">
-                  <th colspan="3">您的savour服饰数据</th>
+                  <th colspan="3">${title}</th>
             </tr>
       </thead>
       <tbody>
@@ -13,9 +13,9 @@
             </tr>
 
             <tr class="forTr titleBottom">
-                  <td>上衣</td>
-                  <td>裤子/裙子</td>
-                  <td>鞋</td>
+                  <td>${name[0]}</td>
+                  <td>${name[1]}</td>
+                  <td>${name[2]}</td>
             </tr>
       </tbody>
 </table>

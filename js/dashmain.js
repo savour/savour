@@ -12,6 +12,8 @@ seajs.config({
         "backbone": "./js/dashboard/backbone-min.js",
         "juicer": "./js/Juicer/build/juicer-min.js",
         "highcharts": "./js/dashboard/highcharts.js",
+        "data": "./js/dashboard/data.js",
+        "drilldown":"./js/dashboard/drilldown.js",
         //"exporting": "./js/dashboard/exporting.js",
 
         //view 写在require中，路径针对js
@@ -26,14 +28,16 @@ seajs.config({
     },
 
     preload: [
-    'PRELOAD_DATA',
+    //'PRELOAD_DATA',
     'jquery',
-    'respond',
-    'bootstrap',
-    'underscore',
-    'backbone',
-    'juicer',
+    //'respond',
+    //'bootstrap',
+    //'underscore',
+    //'backbone',
+    //'juicer',
     'highcharts',
+    'data',
+    'drilldown',
     //'exporting',
     'test'
     ],
@@ -42,6 +46,6 @@ seajs.config({
 
     charset: 'utf-8'
 });
-
-seajs.use("./js/dashboard/router.js");
+seajs.use();
+//seajs.use("./js/dashboard/router.js");
 
