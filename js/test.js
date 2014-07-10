@@ -2,7 +2,7 @@ $(function () {
 
     Highcharts.data({
         csv: document.getElementById('tsv').innerHTML,
-        itemDelimiter: '\t',
+        itemDelimiter: '-',
         parsed: function (columns) {
 
             var brands = {},
@@ -28,7 +28,7 @@ $(function () {
                     name = name.split(' -')[0];
 
                     // Split into brand and version
-                    version = name.match(/([0-9]+[\.0-9x]*)/);
+                    version = name.match(/\[[^\]]+\]/g);
                     if (version) {
                         version = version[0];
                     }
@@ -46,7 +46,7 @@ $(function () {
                         if (!versions[brand]) {
                             versions[brand] = [];
                         }
-                        versions[brand].push(['v' + version, columns[1][i]]);
+                        versions[brand].push([version.replace(/\[/g,'').replace(/\]/g,''), columns[1][i]]);
                     }
                 }
                 
@@ -73,17 +73,17 @@ $(function () {
                     type: 'column'
                 },
                 title: {
-                    text: 'Browser market shares. November, 2013'
+                    text: '您上传到 Savour 的服饰比例'
                 },
                 subtitle: {
-                    text: 'Click the columns to view versions. Source: netmarketshare.com.'
+                    text: '点击柱状图可以获得更多类型比例'
                 },
                 xAxis: {
                     type: 'category'
                 },
                 yAxis: {
                     title: {
-                        text: 'Total percent market share'
+                        text: '百分比(%)'
                     }
                 },
                 legend: {
@@ -105,7 +105,7 @@ $(function () {
                 }, 
 
                 series: [{
-                    name: 'Brands',
+                    name: 'Savour',
                     colorByPoint: true,
                     data: brandsData
                 }],
