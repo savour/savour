@@ -9,9 +9,18 @@ Savour
 
 前端主要目录：
 静态页面：savour/
-css：savour/css/
-简单页面及插件js：savour/js/
-savourDashboard的js：savour/js/dashboard/
-tpl：savour/js/dashboard/tpl
+静态页面css：savour/css/
+静态页面js：savour/js/
+
+
+时间：2014-07-11
+/////////////////////////////////////////////////
 
 savourDashboard单页面无刷设计
+
+js目录如下：
+SD所用插件：savour/js/dashboard/lib
+model：savour/js/dashboard/model
+view：savour/js/dashboard/view
+controller：savour/js/dashboard/controller
+template：savour/js/dashboard/tpl

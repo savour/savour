@@ -2,7 +2,7 @@ define(function(require, exports, module) {
 
     module.exports = Backbone.View.extend({
         el: '#nav-menu',
-        template: require('./tpl/nav.tpl'),
+        template: require('../tpl/nav.tpl'),
         events : {  
             'click .menuhere' : 'cMenuhere',  
             'click .fakemenuhere' : 'cFakemenuhere',   
