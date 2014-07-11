@@ -30,6 +30,9 @@ define(function(require, exports, module) {
             this.el.innerHTML = juicer(this.template, this.model);
             //nav初始化
             $('.submenu').hide();
+
+
+
         }
     }); 
 

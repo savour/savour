@@ -17,7 +17,7 @@ define(function(require, exports, module) {
             topView.render();
          },
          error:function(){
-             alert("error!");
+             alert("top error!");
          }
      });
     //topView.model = topModel.save();
@@ -40,15 +40,32 @@ define(function(require, exports, module) {
             colShowView.render();
          },
          error:function(){
-             alert("error!");
+             alert("colShow error!");
          }
      });
     //topView.model = topModel.save();
 
 
-
-
-
-
+    //top5 model
+    var top5_model = Backbone.Model.extend({
+        url: '../../fake/top5.json',
+        defaults: {
+            "view":  "mySavour",
+            "name":  "top5"
+        }
+    });
+    var top5Model = new top5_model();
+    top5Model.fetch({
+         success:function(model, text){
+            var top5_view = require('top5_view');
+            top5View = new  top5_view();
+            top5View.model = text;
+            top5View.render();
+         },
+         error:function(error){
+             alert("top5 error!");
+         }
+     });
+    //topView.model = topModel.save();
 
 });

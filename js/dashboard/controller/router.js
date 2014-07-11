@@ -23,13 +23,13 @@ define(function(require, exports, module) {
             seajs.use('mySavour');
         },
         matchClothes: function(){
-            //alert("matchClothes");
+            seajs.use('matchClothes');
         },
         savourUpload: function(){
-            //alert("savourUpload");
+            alert("savourUpload");
         },
         iNeed: function(){
-            //alert("iNeed");
+            alert("iNeed");
         }
     });
     var router = new Router();

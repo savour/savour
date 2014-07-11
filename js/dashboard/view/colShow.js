@@ -1,7 +1,7 @@
 define(function(require, exports, module) {
 
     // insert tpl
-    $("#show").append('<div id="colShow" style="min-width: 310px; height: 400px; margin: 0 auto"></div>');
+    $("#show").append('<div id="colShow" style="min-width: 310px; height: 400px; margin: 100px auto"></div>');
 
     // colShow view
     //这个view是highchart控件不需要模板

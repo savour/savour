@@ -6,10 +6,12 @@ seajs.config({
         "nav_view": "../view/nav.js",
         "top_view": "../view/top.js",
         "colShow_view": "../view/colShow.js",
+        "top5_view": "../view/top5.js",
         //model
 
         //controller
         "mySavour": "./js/dashboard/controller/mySavour.js",
+        "matchClothes": "./js/dashboard/controller/matchClothes.js",
 
         //just for dev
         "test": "./js/test.js"

@@ -1,0 +1,25 @@
+{
+    "title":"Top5搭配款式",
+    "up":[
+        "./testClothes/c1.jpg",
+        "./testClothes/c2.jpg",
+        "./testClothes/c3.jpg",
+        "./testClothes/c4.jpg",
+        "./testClothes/c5.jpg"
+    ],
+    "down":[
+        "./testClothes/d1.jpg",
+        "./testClothes/d2.jpg",
+        "./testClothes/d3.jpg",
+        "./testClothes/d4.jpg",
+        "./testClothes/d5.jpg"
+    ],
+    "foot":[
+        "./testClothes/x1.jpg",
+        "./testClothes/x2.jpg",
+        "./testClothes/x3.jpg",
+        "./testClothes/x4.jpg",
+        "./testClothes/x5.jpg"
+    ],
+    "num":[49,36,32,21,7]
+}
