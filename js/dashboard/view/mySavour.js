@@ -5,18 +5,17 @@ define(function(require, exports, module) {
             
             //clear page
             $("#show").empty();
-
             // here is top
             $("#show").append('<div id="top" class="table-responsive"></div>');
             var top_model = Backbone.Model.extend({
-                url: '../../fake/top.json',
+                url: '../../../savour/fake/top.json',
                 defaults: {
                     "view":  "mySavour",
                     "name":  "top"
                 }
             });
             var topModel = new top_model();
-            topModel.fetch({
+            topModel.save("author","Sunny", {
                  success:function(model, text){
                     var top_view = require('top_view');
                     topView = new  top_view();
@@ -32,14 +31,14 @@ define(function(require, exports, module) {
             // here is colShow
             $("#show").append('<div id="colShow" style="min-width: 310px; height: 400px; margin: 100px auto"></div>');
             var colShow_model = Backbone.Model.extend({
-                url: '../../fake/topTitle.json',
+                url: '../../../savour/fake/topTitle.json',
                 defaults: {
                     "view":  "mySavour",
                     "name":  "colShow"
                 }
             });
             var colShowModel = new colShow_model();
-            colShowModel.fetch({
+            colShowModel.save("author","Sunny",{
                  success:function(model, text){
                     var colShow_view = require('colShow_view');
                     colShowView = new  colShow_view();
@@ -55,14 +54,14 @@ define(function(require, exports, module) {
             // here is top5
             $("#show").append('<div class="table-responsive" id="top5"></div>');
             var top5_model = Backbone.Model.extend({
-                url: '../../fake/top5.json',
+                url: '../../../savour/fake/top5.json',
                 defaults: {
                     "view":  "mySavour",
                     "name":  "top5"
                 }
             });
             var top5Model = new top5_model();
-            top5Model.fetch({
+            top5Model.save("author","Sunny",{
                  success:function(model, text){
                     var top5_view = require('top5_view');
                     top5View = new  top5_view();

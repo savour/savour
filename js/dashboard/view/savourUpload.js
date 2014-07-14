@@ -9,14 +9,14 @@ define(function(require, exports, module) {
             // here is top
             $("#show").append('<div id="top" class="table-responsive"></div>');
             var top_model = Backbone.Model.extend({
-                url: '../../fake/topUpload.json',
+                url: '../../../savour/fake/topUpload.json',
                 defaults: {
                     "view":  "savourUpload",
                     "name":  "top"
                 }
             });
             var topModel = new top_model();
-            topModel.fetch({
+            topModel.save("author","Sunny",{
                  success:function(model, text){
                     var top_view = require('top_view');
                     topView = new  top_view();

@@ -15,14 +15,14 @@ define(function(require, exports, module) {
             // here is chooseResult
             $("#show").append('<div class="table-responsive" id="chooseResult"></div>');
             var chooseResult_model = Backbone.Model.extend({
-                url: '../../fake/chooseResult.json',
+                url: '../../../savour/fake/chooseResult.json',
                 defaults: {
                     "view":  "matchClothes",
                     "name":  "chooseResult"
                 }
             });
             var chooseResultModel = new chooseResult_model();
-            chooseResultModel.fetch({
+            chooseResultModel.save("author","Sunny",{
                  success:function(model, text){
                     var chooseResult_view = require('chooseResult_view');
                     chooseResultView = new  chooseResult_view();
