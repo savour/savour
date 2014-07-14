@@ -15,7 +15,12 @@ seajs.config({
         "top5_view": "./top5.js",
         "choose_view": "./choose.js",
         "chooseResult_view": "./chooseResult.js",
+        "upload_view": "./upload.js",
 
+        //plugin for router
+        "fileupload": "./lib/jquery.fileupload.js",
+        "widget": "./lib/jquery.ui.widget.js",
+        
         //just for dev
         "test": "./js/test.js"
     },

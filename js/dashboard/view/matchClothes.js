@@ -7,6 +7,7 @@ define(function(require, exports, module) {
             $("#show").empty();
 
             // here is choose
+            $("#show").append('<div id="choose"></div>');
             var choose_view = require('choose_view');
             chooseView = new  choose_view();
             chooseView.render();

@@ -42,10 +42,12 @@ define(function(require, exports, module) {
 
             navView.current = "savourUpload";
             navView.render();
-
-            var savourUpload_view = require('savourUpload');
-            savourUploadView = new  savourUpload_view();
-            savourUploadView.render();
+            //异步加载w，f；执行完成之后再回调savourUpload
+            require.async(['widget', 'fileupload'], function(w, f) {
+                var savourUpload_view = require('savourUpload');
+                savourUploadView = new  savourUpload_view();
+                savourUploadView.render();
+            });
         },
         iNeed: function(){
 
