@@ -1,5 +1,5 @@
 /*body 中的container整体下移*/
-body { padding-top: 70px; overflow-x: hidden; }
+body { padding-top: 70px; overflow-x: hidden; min-width: 760px;}
 /*页面头部导航修改*/
 @media screen and (min-width: 768px) { /*大于768的尺寸*/
     .navbar-nav { float: right; }  
@@ -29,3 +29,7 @@ th, td { text-align: center; }
 .top5Num { font-size: 18px; }
 .top5Clothes { font-size: 18px; height: 130px; }
 .top5Clothes td { text-align: center; }
+
+/*choose*/
+.qSpan { margin-right: 10px; line-height: 3; }
+

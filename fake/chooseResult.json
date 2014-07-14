@@ -1,0 +1,7 @@
+{
+    "title": "推荐结果",
+    "up": "./testClothes/c1.jpg",
+    "down": "./testClothes/d1.jpg",
+    "foot": "./testClothes/x1.jpg",
+    "num":[217,43,161]
+}

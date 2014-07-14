@@ -2,12 +2,12 @@
 <li>
     {@if it.show == true }
         {@if k == 0 }
-        <a class="menuhere current" href="${it.myurl}">
+        <a class="menuhere" href="${it.myurl}" id="${it.id}">
             <span class="glyphicon ${it.icon}"></span>${it.name}
         </a> 
         {@/if}
         {@if k != 0 }
-        <a class="menuhere" href="${it.myurl}">
+        <a class="menuhere" href="${it.myurl}" id="${it.id}">
             <span class="glyphicon ${it.icon}"></span>${it.name}
         </a> 
         {@/if}
@@ -19,7 +19,7 @@
     <ul class="nav navsub-add">
         {@each it.sub as it2}
         <li>
-            <a class="submenu" href="${it2.myurl}">
+            <a class="submenu" href="${it2.myurl}" id="${it2.id}">
                 <span class="">${it2.subname}</span>
             </a>
         </li>

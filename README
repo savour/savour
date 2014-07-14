@@ -24,3 +24,16 @@ model：savour/js/dashboard/model
 view：savour/js/dashboard/view
 controller：savour/js/dashboard/controller
 template：savour/js/dashboard/tpl
+
+
+时间：2014-07-14
+/////////////////////////////////////////////////
+
+savourDashboard目录修正
+
+js目录如下：
+SD所用插件：savour/js/dashboard/lib
+model：savour/js/dashboard/model
+view：savour/js/dashboard/view
+controller：router.js
+template：savour/js/dashboard/tpl

@@ -28,11 +28,12 @@ define(function(require, exports, module) {
         },
         render: function(){
             this.el.innerHTML = juicer(this.template, this.model);
-            //nav初始化
-            $('.submenu').hide();
-
-
-
+            $("#"+this.current).addClass('current');
+            if ( this.current == "matchClothes") {
+                $('.submenu').show();
+            }else{
+                $('.submenu').hide();
+            };
         }
     }); 
 
