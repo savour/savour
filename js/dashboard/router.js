@@ -1,15 +1,8 @@
 define(function(require, exports, module) {
 
-    //将PRELOAD_DATA载入model层
-    var preload_data = new Backbone.Model();
-    preload_data.set(window.data);
-
     //载入view层的nav
     var nav_view = require('nav_view');
     navView = new  nav_view();
-    navView.model = preload_data.toJSON(); //将model引入view中
-    navView.current = "mySavour";
-    navView.render();
 
     //控制器
     var Router = Backbone.Router.extend({
@@ -22,26 +15,21 @@ define(function(require, exports, module) {
         },
         mySavour: function(){
 
-            navView.current = "mySavour";
-            navView.render();
-
+            navView.model.set('current', 'mySavour'); 
             var mySavour_view = require('mySavour');
             mySavourView = new  mySavour_view();
             mySavourView.render();
         },
         matchClothes: function(){
 
-            navView.current = "matchClothes";
-            navView.render();
-
+            navView.model.set('current', 'matchClothes'); 
             var matchClothes_view = require('matchClothes');
             matchClothesView = new  matchClothes_view();
             matchClothesView.render();
         },
         savourUpload: function(){
 
-            navView.current = "savourUpload";
-            navView.render();
+            navView.model.set('current', 'savourUpload'); 
             //异步加载w，f；执行完成之后再回调savourUpload
             require.async(['widget', 'fileupload'], function(w, f) {
                 var savourUpload_view = require('savourUpload');
@@ -51,9 +39,7 @@ define(function(require, exports, module) {
         },
         iNeed: function(){
 
-            navView.current = "iNeed";
-            navView.render();
-
+            navView.model.set('current', 'iNeed'); 
             var iNeed_view = require('iNeed');
             iNeedView = new  iNeed_view();
             iNeedView.render();

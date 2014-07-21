@@ -1,6 +1,8 @@
 var data = {
     //基本注释
     author: "sunny",
+    //定义当前的导航
+    current: "none",
     //预设的left nav的数据
     list: [
         { name:'我的savour', icon:'glyphicon-home', myurl:'#!/mySavour', id:'mySavour' , show: true },

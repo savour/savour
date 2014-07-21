@@ -1,8 +1,16 @@
 define(function(require, exports, module) {
 
+    //将PRELOAD_DATA载入model层,在view的initialize之前渲染
+    var preload_data = new Backbone.Model();
+    preload_data.set(window.data);
+
     module.exports = Backbone.View.extend({
         el: '#nav-menu',
         template: require('../tpl/nav.tpl'),
+        model: preload_data,
+        initialize: function() {
+            this.listenTo(this.model, 'change:current', this.render);
+        },
         events : {  
             'click .menuhere' : 'cMenuhere',  
             'click .fakemenuhere' : 'cFakemenuhere',   
@@ -27,9 +35,10 @@ define(function(require, exports, module) {
             $self.addClass('current');
         },
         render: function(){
-            this.el.innerHTML = juicer(this.template, this.model);
-            $("#"+this.current).addClass('current');
-            if ( this.current == "matchClothes") {
+            this.el.innerHTML = juicer(this.template, this.model.toJSON());
+            var current = this.model.get('current');
+            $("#"+current).addClass('current');
+            if ( current == "matchClothes") {
                 $('.submenu').show();
             }else{
                 $('.submenu').hide();
