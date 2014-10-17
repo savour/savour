@@ -8,7 +8,7 @@ define(function(require, exports, module) {
             // here is top
             $("#show").append('<div id="top" class="table-responsive"></div>');
             var top_model = Backbone.Model.extend({
-                url: '../../../savour/fake/top.json',
+                url: '../../../savour/web/fake/top.json',
                 defaults: {
                     "view":  "mySavour",
                     "name":  "top"
@@ -31,7 +31,7 @@ define(function(require, exports, module) {
             // here is colShow
             $("#show").append('<div id="colShow" style="min-width: 310px; height: 400px; margin: 100px auto"></div>');
             var colShow_model = Backbone.Model.extend({
-                url: '../../../savour/fake/topTitle.json',
+                url: '../../../savour/web/fake/topTitle.json',
                 defaults: {
                     "view":  "mySavour",
                     "name":  "colShow"
@@ -54,7 +54,7 @@ define(function(require, exports, module) {
             // here is top5
             $("#show").append('<div class="table-responsive" id="top5"></div>');
             var top5_model = Backbone.Model.extend({
-                url: '../../../savour/fake/top5.json',
+                url: '../../../savour/web/fake/top5.json',
                 defaults: {
                     "view":  "mySavour",
                     "name":  "top5"

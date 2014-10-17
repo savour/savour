@@ -15,7 +15,7 @@ define(function(require, exports, module) {
             // here is chooseResult
             $("#show").append('<div class="table-responsive" id="chooseResult"></div>');
             var chooseResult_model = Backbone.Model.extend({
-                url: '../../../savour/fake/chooseResult.json',
+                url: '../../../savour/web/fake/chooseResult.json',
                 defaults: {
                     "view":  "matchClothes",
                     "name":  "chooseResult"

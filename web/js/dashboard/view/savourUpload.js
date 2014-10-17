@@ -9,7 +9,7 @@ define(function(require, exports, module) {
             // here is top
             $("#show").append('<div id="top" class="table-responsive"></div>');
             var top_model = Backbone.Model.extend({
-                url: '../../../savour/fake/topUpload.json',
+                url: '../../../savour/web/fake/topUpload.json',
                 defaults: {
                     "view":  "savourUpload",
                     "name":  "top"
