@@ -20,8 +20,13 @@ http://777sunny777.github.io/sunnyblog/
 /////////////////////////////////////////////////
 Savour目录
 
-前端相关：savour/web/
-
+数据库设计文件目录：savour/sql/
+项目公共文件目录：savour/Common(自定义的函数库也会放在这里)
+项目配置目录：savour/Conf
+项目语言包目录：savour/Lang (暂时保留)
+项目类库目录：savour/Lib (包含Action和Model)
+项目模板目录：savour/Tpl (前端相关)
+项目运行时目录：savour/Runtime
 
 时间：2014-07-11
 /////////////////////////////////////////////////

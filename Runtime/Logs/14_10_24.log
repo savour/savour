@@ -1,0 +1,175 @@
+[ 2014-10-24T16:52:11+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007851s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.029958s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000635s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.030648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009791s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.040424s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.040904s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.041544s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.041968s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002211s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.042674s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2014-10-24T17:25:34+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000855s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000276s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001152s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004326s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.005488s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.005713s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.005898s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.006031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000788s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.006301s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2014-10-24T17:25:44+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.006346s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006472s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001879s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000233s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010742s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012903s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013148s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013315s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000830s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013766s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2014-10-24T17:25:45+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:25:45+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:25:45+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:25:45+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:25:45+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:25:45+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:25:45+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:25:45+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:25:45+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:25:45+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:05+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:05+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:05+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:05+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:07+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000532s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001355s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000178s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012101s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013696s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013995s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014290s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001149s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014891s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2014-10-24T17:26:07+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:07+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:07+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:07+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:07+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:07+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:07+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:07+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:07+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:26:07+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:36:19+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000419s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000934s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000166s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013064s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014214s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014487s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014692s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000849s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015093s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2014-10-24T17:36:19+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:36:19+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:36:19+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:36:19+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:36:19+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:36:19+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:36:19+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:36:19+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:36:19+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:36:19+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:53:22+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000572s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000900s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000198s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012416s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013558s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013776s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013985s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000827s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014413s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2014-10-24T17:53:22+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:53:22+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:53:22+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:53:22+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:53:22+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:53:22+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:53:22+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:53:22+08:00 ] ERR: (ThinkException) 非法操作:__HOME__
+[ 2014-10-24T17:53:22+08:00 ] ERR: (ThinkException) 非法操作:__HOME__

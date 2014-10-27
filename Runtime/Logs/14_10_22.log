@@ -1,0 +1,2948 @@
+[ 2014-10-22T13:45:37+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001231s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001399s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.002025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.006398s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000541s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.006990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007498s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014488s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014856s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015244s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001583s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016102s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2014-10-22T15:36:34+08:00 ] ERR: (ThinkException) 非法操作:{}
+[ 2014-10-22T15:38:02+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2014-10-22T15:38:10+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2014-10-22T15:38:13+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2014-10-22T15:42:14+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000516s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000200s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009871s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010703s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010967s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011213s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001083s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.011813s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2014-10-22T15:42:28+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000530s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000208s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000754s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012004s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012826s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013063s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013289s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000915s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013741s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2014-10-22T15:42:32+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000468s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001113s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000220s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004383s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.005746s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.005964s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.006148s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.006263s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000751s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.006523s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2014-10-22T15:42:38+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000811s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000258s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010451s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011573s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011933s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012254s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001310s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012932s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2014-10-22T15:42:58+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000326s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000485s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008784s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009311s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009601s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009867s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010040s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001055s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010410s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000486s ]
+
+[ 2014-10-22T15:44:03+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000435s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001071s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000196s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008377s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009680s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009981s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010175s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010301s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000981s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010690s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2014-10-22T15:44:08+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000510s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001566s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000264s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009967s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011851s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012199s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012555s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012786s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001412s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013308s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000556s ]
+
+[ 2014-10-22T15:44:08+08:00 ] ERR: (ThinkException) 非法操作:image
+[ 2014-10-22T15:44:21+08:00 ] 0.0.0.0 /savour/index.php/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000436s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001518s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000307s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001853s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009586s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011477s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011766s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012038s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001081s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012608s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000520s ]
+
+[ 2014-10-22T15:44:21+08:00 ] ERR: (ThinkException) 无法加载模块:image
+[ 2014-10-22T15:44:26+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000343s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000166s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009019s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009572s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009788s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010186s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000992s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010596s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2014-10-22T15:47:04+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000392s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000156s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008822s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009455s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009676s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009847s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009958s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000722s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010195s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2014-10-22T15:47:36+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000420s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000164s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010586s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011211s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011404s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011586s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011760s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000908s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012242s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000916s ]
+
+[ 2014-10-22T15:49:24+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000515s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000237s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000778s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013819s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014653s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015212s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015792s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002026s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016756s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000788s ]
+
+[ 2014-10-22T15:49:38+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000770s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000336s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015255s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.016432s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.016734s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.017010s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.017139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000955s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.017411s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2014-10-22T15:50:46+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000356s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000156s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011113s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011668s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011874s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012030s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000654s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012350s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2014-10-22T15:50:47+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000409s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000242s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013412s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014108s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014345s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014539s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014669s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000804s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014951s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2014-10-22T15:51:04+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000502s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000226s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013480s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014259s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014512s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014760s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014903s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000936s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015236s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2014-10-22T15:52:18+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000730s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000259s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014767s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015839s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.016207s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016550s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016787s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001390s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.017279s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2014-10-22T15:53:12+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000513s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000218s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003046s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.003793s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.003968s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.004123s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.004226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000624s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.004445s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2014-10-22T15:56:55+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000370s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000147s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012619s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013181s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013395s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013580s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013701s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000743s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013956s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2014-10-22T15:57:13+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000333s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000163s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011255s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011809s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012109s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012394s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001123s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012983s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2014-10-22T16:02:43+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000415s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000153s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000584s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010626s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011255s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011609s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011889s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012052s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001044s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012328s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2014-10-22T16:02:53+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000314s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010778s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011296s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011593s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011862s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012036s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001068s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012408s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2014-10-22T16:04:04+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000359s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000150s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010960s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011529s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011821s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012089s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012265s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001061s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012634s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2014-10-22T16:04:04+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000313s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011284s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011814s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012289s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012610s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012834s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001361s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013204s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2014-10-22T16:04:05+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000648s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000235s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000909s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015106s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.016039s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.016248s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016430s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016548s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000733s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016803s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2014-10-22T16:04:05+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000312s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000269s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010227s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010894s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011190s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011472s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001127s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012065s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2014-10-22T16:08:49+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000341s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000152s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011143s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011706s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012131s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012468s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012696s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001250s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012976s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2014-10-22T16:08:49+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000969s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000346s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011297s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012642s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012980s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013356s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013636s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001381s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014091s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2014-10-22T16:09:25+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001010s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000407s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001472s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009591s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011077s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011287s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011490s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000759s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.011867s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2014-10-22T16:09:46+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000366s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001077s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000177s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009381s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010692s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010926s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011158s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011301s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000861s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.011588s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2014-10-22T16:10:55+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000323s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000147s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009031s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009558s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009855s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010125s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010301s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001069s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010671s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2014-10-22T16:11:28+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000311s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000149s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010354s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010867s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011093s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011309s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000803s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.011703s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2014-10-22T16:11:28+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000666s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000256s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000952s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003862s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.004828s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.004974s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.005117s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.005212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000562s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.005416s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000257s ]
+
+[ 2014-10-22T16:11:28+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000312s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000144s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010540s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011062s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011485s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011823s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001444s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012549s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2014-10-22T16:11:29+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000350s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000740s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000142s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011247s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012221s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012763s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013039s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001366s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013621s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2014-10-22T16:11:37+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000347s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000771s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000143s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010710s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011687s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012031s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012449s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012691s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001358s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013090s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2014-10-22T16:11:44+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000343s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000152s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009542s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009750s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009933s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010053s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000737s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010309s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2014-10-22T16:11:46+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000370s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000721s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000140s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011329s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012248s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012551s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012845s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001253s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013581s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2014-10-22T16:11:54+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000324s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000147s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008473s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009022s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009414s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009765s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010042s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001458s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010528s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2014-10-22T16:11:56+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000406s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000779s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000141s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011286s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012264s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012666s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013117s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002133s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014468s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2014-10-22T16:12:01+08:00 ] 0.0.0.0 /savour/index.php/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000478s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000958s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000170s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001154s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008856s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010055s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010425s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010610s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010727s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000908s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010988s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000313s ]
+
+[ 2014-10-22T16:12:05+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000457s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000225s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000703s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009424s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010155s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010378s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010607s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010733s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000799s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010991s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000354s ]
+
+[ 2014-10-22T16:12:07+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000340s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000785s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000156s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012059s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013060s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013360s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013627s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013797s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001073s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014176s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2014-10-22T16:12:13+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000379s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000168s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000567s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009189s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009782s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009993s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010177s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010555s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000269s ]
+
+[ 2014-10-22T16:12:16+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000238s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000295s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000140s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000450s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002845s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.003312s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.003449s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.003588s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.003679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000541s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.003876s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000247s ]
+
+[ 2014-10-22T16:12:18+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000318s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000717s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000141s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000873s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010963s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011863s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012069s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012396s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001348s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013280s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2014-10-22T16:18:33+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000361s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000771s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000150s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003252s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.004207s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.004355s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.004510s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.004613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000620s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.004852s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000261s ]
+
+[ 2014-10-22T16:18:38+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000342s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000149s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000506s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011167s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011703s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011916s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012101s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000815s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012548s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000299s ]
+
+[ 2014-10-22T16:21:01+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000346s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000151s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000513s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003041s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.003571s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.003716s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.003860s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.003955s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000562s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.004158s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000257s ]
+
+[ 2014-10-22T16:21:06+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000323s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011462s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012000s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012528s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012974s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013608s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001996s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014019s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2014-10-22T16:22:30+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000320s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000146s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000480s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010332s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010864s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011509s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012073s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001676s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012566s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2014-10-22T16:22:31+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000417s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000366s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 32 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000860s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011653s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012519s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012719s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012900s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000726s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013271s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000299s ]
+
+[ 2014-10-22T16:24:01+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000362s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000173s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011267s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011844s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012060s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012251s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000776s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012652s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2014-10-22T16:24:02+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000323s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000146s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010510s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011037s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011448s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011741s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011965s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001260s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012323s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2014-10-22T16:24:02+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000951s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000391s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010644s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011970s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012173s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012348s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000704s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012703s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000297s ]
+
+[ 2014-10-22T16:24:04+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000394s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000804s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000159s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010849s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011894s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012213s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012487s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001105s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013035s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2014-10-22T16:24:07+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000319s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000717s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000142s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012309s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013209s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013409s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013594s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013711s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000737s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013976s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2014-10-22T16:24:10+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000331s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000726s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000149s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000893s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011171s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012137s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012509s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012882s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001359s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013529s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2014-10-22T16:24:14+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000347s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000776s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000156s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011142s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012115s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012315s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012499s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000734s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012882s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2014-10-22T16:24:53+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000336s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000742s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010873s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011817s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012136s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012421s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012596s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001119s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012978s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2014-10-22T16:24:55+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000317s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000230s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000725s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000143s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010657s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011577s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011878s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012148s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000924s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012527s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2014-10-22T16:24:58+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000343s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000758s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000140s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000915s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011214s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012168s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012458s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012727s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012897s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001063s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013275s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2014-10-22T16:25:01+08:00 ] 0.0.0.0 /savour/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000323s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000143s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000481s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010628s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011179s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011488s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011759s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011936s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001094s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012309s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2014-10-22T16:25:03+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000556s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000257s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010680s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011534s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011740s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011908s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012008s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000666s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012225s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2014-10-22T16:25:05+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000316s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000733s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000144s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000892s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010692s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011608s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011849s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012123s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001022s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012679s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2014-10-22T16:25:29+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000309s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000720s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000142s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011245s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012160s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012445s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012713s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012883s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001057s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013260s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2014-10-22T16:25:30+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000320s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000743s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000143s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011092s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012020s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012225s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012417s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000722s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012771s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2014-10-22T16:25:32+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000345s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000702s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000141s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011073s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011969s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012257s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012524s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001054s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013067s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2014-10-22T16:25:34+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000310s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000702s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000158s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010611s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011511s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011710s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011892s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011997s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000695s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012234s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2014-10-22T16:25:43+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000315s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000707s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000144s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011744s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012649s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012932s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013199s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013368s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001047s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013739s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2014-10-22T16:25:45+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000480s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001097s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000175s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011175s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012479s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012683s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012866s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012981s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000728s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013237s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2014-10-22T16:25:47+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000316s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000720s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000141s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011404s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012323s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012636s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012880s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001058s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013431s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2014-10-22T16:25:50+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000313s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000760s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010726s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011680s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011944s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012213s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001123s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012838s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2014-10-22T16:25:50+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000318s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000720s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000139s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011617s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012552s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012949s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013238s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001239s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013823s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2014-10-22T16:25:51+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000329s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000800s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000140s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000955s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011203s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012183s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012381s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012562s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000719s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012933s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000307s ]
+
+[ 2014-10-22T16:25:59+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000319s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000737s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000151s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007314s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.008252s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008438s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008605s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.008705s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000653s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.008944s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2014-10-22T16:27:01+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000497s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001402s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000242s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007880s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009579s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009787s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009972s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000756s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010364s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2014-10-22T16:27:03+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000307s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000695s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000140s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002843s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.003760s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.003902s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.004042s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.004132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000550s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.004331s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000255s ]
+
+[ 2014-10-22T16:27:04+08:00 ] ERR: (ThinkException) 非法操作:{SV1::U(Login111
+[ 2014-10-22T16:27:11+08:00 ] ERR: (ThinkException) 非法操作:{SV1::U(Login111
+[ 2014-10-22T16:27:13+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000408s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000794s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000164s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000975s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011660s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012699s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013133s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013421s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001255s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013988s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2014-10-22T16:27:14+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000313s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000724s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000143s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011418s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012338s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012626s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012900s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001070s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013453s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2014-10-22T16:27:17+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000308s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001382s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000222s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011696s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013389s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013693s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013962s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001042s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014445s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2014-10-22T16:35:29+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000320s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000755s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000152s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003069s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.004009s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.004163s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.004317s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.004416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000599s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.004636s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000273s ]
+
+[ 2014-10-22T16:35:30+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000784s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001210s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000185s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010613s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012055s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012345s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012618s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012793s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001073s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013171s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2014-10-22T16:35:30+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000313s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000718s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000142s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011781s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012681s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012880s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013086s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000748s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013458s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2014-10-22T16:35:59+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000316s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000730s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000144s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010520s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011436s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011652s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011841s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000753s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012219s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000311s ]
+
+[ 2014-10-22T16:36:25+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000547s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000977s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000146s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011338s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012517s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012803s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013075s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001066s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013626s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2014-10-22T16:36:44+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000502s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000873s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000147s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011398s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012472s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012762s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013036s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001074s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013592s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2014-10-22T16:37:03+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000314s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000732s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000149s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [8] Use of undefined constant sss - assumed 'sss' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011294s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012217s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012423s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012612s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012733s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000749s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012996s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2014-10-22T16:37:34+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000323s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000751s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 34 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000912s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011189s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012127s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012334s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012522s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012642s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000746s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012903s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2014-10-22T16:40:59+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000318s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000750s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000149s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011589s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012541s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012843s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013142s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001124s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013710s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2014-10-22T16:41:13+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000314s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000735s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Login111 - assumed 'Login111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [8] Use of undefined constant index111 - assumed 'index111' /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+NOTIC: [2] Division by zero /Users/sunyan/Documents/myGithub/savour/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 33 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011346s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012280s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012570s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012843s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001090s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013415s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2014-10-22T16:43:12+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000320s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000742s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000144s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011048s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011979s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012213s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012485s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012637s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000940s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012951s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2014-10-22T16:43:12+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000312s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000711s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000142s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003338s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.004224s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.004365s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.004509s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.004600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000556s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.004805s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000248s ]
+
+[ 2014-10-22T16:43:12+08:00 ] 0.0.0.0 /savour/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000410s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002500s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000836s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.003354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012936s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.016319s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.016540s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016729s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016931s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000871s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.017215s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2014-10-22T16:43:13+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000317s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000746s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000144s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011701s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012653s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012954s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013228s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001106s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013800s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2014-10-22T16:43:34+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000318s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000146s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011270s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011789s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012091s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012364s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001081s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012916s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2014-10-22T16:43:39+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000731s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001454s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000162s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011504s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013164s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013365s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013546s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000720s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013914s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2014-10-22T16:50:36+08:00 ] ERR: (ThinkException) 非法操作:{}
+[ 2014-10-22T16:52:24+08:00 ] ERR: (ThinkException) 非法操作:{}
+[ 2014-10-22T16:52:28+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000307s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000706s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000152s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010897s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011850s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012339s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012626s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012809s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001339s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013229s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2014-10-22T16:52:28+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000332s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000722s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000141s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011270s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012175s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012378s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012565s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000739s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012944s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000313s ]
+
+[ 2014-10-22T16:52:28+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000325s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000772s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000144s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003441s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.004392s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.004544s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.004694s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.004792s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.005027s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2014-10-22T16:52:28+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000547s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002561s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000281s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013640s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.016521s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.016732s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016904s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.017015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000712s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.017262s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2014-10-22T17:04:53+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000327s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000792s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000149s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016343s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.017342s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.017646s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.017931s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.018116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001125s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.018512s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2014-10-22T17:05:22+08:00 ] ERR: (ThinkException) 无法加载模块:savour
+[ 2014-10-22T17:14:11+08:00 ] ERR: (ThinkException) 无法加载模块:Dashboard
+[ 2014-10-22T17:14:15+08:00 ] ERR: (ThinkException) 无法加载模块:Dashboard
+[ 2014-10-22T17:14:36+08:00 ] 0.0.0.0 /savour/index.php/Dashboard/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000310s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000964s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000221s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013266s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013581s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001176s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014487s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2014-10-22T17:14:36+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-22T17:14:39+08:00 ] ERR: (ThinkException) 非法操作:savourDashboard
+[ 2014-10-22T17:14:40+08:00 ] ERR: (ThinkException) 非法操作:savourDashboard
+[ 2014-10-22T17:14:45+08:00 ] 0.0.0.0 /savour/index.php/Dashboard/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000529s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001022s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000146s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012899s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014112s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014371s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014612s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014744s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000881s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015027s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2014-10-22T17:14:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-22T17:14:46+08:00 ] 0.0.0.0 /savour/index.php/Dashboard/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000306s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000704s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000146s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010814s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011724s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012049s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012325s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001145s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012939s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2014-10-22T17:14:46+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-22T17:14:46+08:00 ] 0.0.0.0 /savour/index.php/Dashboard/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000304s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000706s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000141s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000862s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003310s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.004189s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.004328s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.004475s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.004567s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000557s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.004770s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000247s ]
+
+[ 2014-10-22T17:14:46+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-22T17:14:46+08:00 ] 0.0.0.0 /savour/index.php/Dashboard/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000305s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000694s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000143s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003268s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.004138s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.004277s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.004418s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.004508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000546s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.004707s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000255s ]
+
+[ 2014-10-22T17:14:46+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-22T17:14:48+08:00 ] ERR: (ThinkException) 非法操作:savourDashboard
+[ 2014-10-22T17:14:56+08:00 ] 0.0.0.0 /savour/index.php/Dashboard/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000477s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001332s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000153s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011577s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013122s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013413s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013685s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013858s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001088s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014254s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2014-10-22T17:14:57+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-22T17:27:31+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000320s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000149s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011346s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011869s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012165s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012452s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001108s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013022s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2014-10-22T17:27:31+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000337s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000152s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011921s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012467s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012751s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013014s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001039s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013549s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2014-10-22T17:27:33+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000374s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000230s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000764s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000146s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011842s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012813s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013108s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013381s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001084s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013940s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2014-10-22T17:27:41+08:00 ] ERR: (ThinkException) 无法加载模块:savour
+[ 2014-10-22T17:28:37+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000329s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000775s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000143s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011620s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012580s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012784s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012970s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013354s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2014-10-22T17:28:44+08:00 ] ERR: (ThinkException) 无法加载模块:Tpl
+[ 2014-10-22T17:29:21+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000332s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001060s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000147s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010905s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012169s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012466s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012740s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001083s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013296s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2014-10-22T17:29:23+08:00 ] ERR: (ThinkException) 非法操作:savour
+[ 2014-10-22T17:29:29+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000351s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000834s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000158s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010541s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011588s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011877s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012148s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012320s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001079s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012710s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2014-10-22T17:29:29+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000504s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002207s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000317s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002529s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012968s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015536s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015826s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016097s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001070s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016649s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2014-10-22T17:29:30+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001368s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001526s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002104s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000326s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005765s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.008261s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008419s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008568s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.008663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000589s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.008876s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000255s ]
+
+[ 2014-10-22T17:29:30+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000577s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001924s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000969s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.003069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016642s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.019714s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.019924s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.020110s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.020221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000725s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.020467s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000305s ]
+
+[ 2014-10-22T17:29:30+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000337s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000796s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000957s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005987s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.007029s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008061s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008883s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009376s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002905s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010034s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000939s ]
+
+[ 2014-10-22T17:29:32+08:00 ] ERR: (ThinkException) 非法操作:savour
+[ 2014-10-22T17:29:54+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000484s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001353s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000197s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010775s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012373s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012655s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012919s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001042s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013460s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2014-10-22T17:29:55+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001233s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001470s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001658s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.003651s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000455s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.004133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013919s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.018103s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.018689s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.019167s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.019473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001708s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.019849s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2014-10-22T17:29:55+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001154s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001375s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002902s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000411s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.003404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005717s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009118s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009270s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009416s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000576s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009721s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000252s ]
+
+[ 2014-10-22T17:29:55+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000373s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002124s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000246s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004273s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.006685s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.006947s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.007439s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.007575s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001110s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.007826s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2014-10-22T17:29:55+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001245s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001411s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001962s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000286s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007284s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009580s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009854s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010119s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001162s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010785s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2014-10-22T17:31:35+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000313s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000753s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000913s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012512s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013465s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013759s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014031s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001093s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2014-10-22T20:09:38+08:00 ] 0.0.0.0 /savour/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000326s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000149s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011388s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011920s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012224s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012501s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001103s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013068s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2014-10-22T20:18:29+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000372s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000846s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000148s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011537s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012573s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012789s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012983s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000776s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013380s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000326s ]
+
