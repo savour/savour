@@ -1,0 +1,45 @@
+Savour
+
+欢迎到我的自建blog去看看：
+http://777sunny777.github.io/sunnyblog/
+交流请发邮件：sunnysunyan7@163.com
+谢谢！
+
+
+时间：2014-07-09
+/////////////////////////////////////////////////
+技术实现
+
+前端：Backbone，Bootstrap，Seajs，Juicer
+后端：ThinkPHP
+数据库：Mysql
+项目优化工具：Grunt
+服务器：Coding
+
+时间：2014-10-17
+/////////////////////////////////////////////////
+Savour目录
+
+数据库设计文件目录：savour/sql/
+项目公共文件目录：savour/Common(自定义的函数库也会放在这里)
+项目配置目录：savour/Conf
+项目语言包目录：savour/Lang (暂时保留)
+项目类库目录：savour/Lib (包含Action和Model)
+项目模板目录：savour/Tpl (前端相关)
+项目运行时目录：savour/Runtime
+
+时间：2014-07-11
+/////////////////////////////////////////////////
+前端MVC结构--SavourDashboard页面
+
+js目录如下：
+SD所用插件：savour/js/dashboard/lib
+model：savour/js/dashboard/model
+view：savour/js/dashboard/view
+controller：router.js
+template：savour/js/dashboard/tpl
+
+衣服映射关系
+1正式2休闲3运动
+
+

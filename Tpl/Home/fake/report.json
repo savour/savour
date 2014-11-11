@@ -1,0 +1,19 @@
+{
+"clothes": "上衣",
+"sumpages": 8,
+"data": [
+    { "id": 1, "name": "c1", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 2, "name": "c2", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 3, "name": "c3", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 4, "name": "c4", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 5, "name": "c5", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 6, "name": "c1", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 7, "name": "c1", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 8, "name": "c1", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 9, "name": "c1", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 10, "name": "c1", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 11, "name": "c1", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 12, "name": "c1", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"},
+    { "id": 13, "name": "c1", "type": "衬衫","brand": "zara","price": 123.90 ,"buy_date": "2014-07-01","season": "春秋","commit": "贵"}
+    ]
+}

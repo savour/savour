@@ -1,0 +1,1304 @@
+[ 2014-10-21T16:23:38+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2014-10-21T16:23:39+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-21T16:40:10+08:00 ] 0.0.0.0 /savour/index.php/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000379s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.007358s ]
+INFO: [ view_template ] --END-- [ RunTime:0.006702s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.014127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011761s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.025899s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.026476s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.027147s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.027756s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002614s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.028575s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000682s ]
+
+[ 2014-10-21T16:40:10+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:40:10+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:40:10+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:40:10+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:40:10+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:40:10+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:40:10+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:40:14+08:00 ] 0.0.0.0 /savour/index.php/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000332s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000678s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000147s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008343s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009212s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009410s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009589s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009703s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000715s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009955s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2014-10-21T16:40:14+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:40:14+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:40:14+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:40:14+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:40:14+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:40:14+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:40:14+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:40:59+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000467s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001159s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000165s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001342s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008844s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010213s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010447s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010642s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010767s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000817s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.011061s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2014-10-21T16:40:59+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:40:59+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:40:59+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:40:59+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:40:59+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:40:59+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:40:59+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:41:01+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000396s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000984s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000223s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009190s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010448s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010649s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010831s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010948s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000729s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.011206s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000293s ]
+
+[ 2014-10-21T16:41:02+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:41:02+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:41:02+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:41:02+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:41:02+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:41:02+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:41:02+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:41:56+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000445s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000665s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000141s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010326s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011190s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011474s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011745s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011919s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001061s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012294s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2014-10-21T16:41:56+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:41:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:41:56+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:41:56+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:41:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:41:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:41:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:19+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:19+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:19+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:23+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000311s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000778s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000153s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011390s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012362s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012569s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012769s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012891s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000772s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013165s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2014-10-21T16:42:23+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:23+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:23+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:23+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:23+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:23+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:23+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:24+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000497s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001286s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000478s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013512s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015283s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015468s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015626s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015728s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000643s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015952s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:24+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000827s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000955s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001675s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000257s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011628s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013658s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014032s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014390s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014859s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001946s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015700s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000902s ]
+
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:42:24+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T16:49:10+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T16:49:34+08:00 ] ERR: (ThinkException) 无法加载模块:css
+[ 2014-10-21T17:02:43+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000538s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001095s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000227s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001356s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013407s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014802s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015084s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015338s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001177s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016053s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2014-10-21T17:02:43+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:02:43+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:02:43+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:02:43+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:02:43+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:02:43+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:02:43+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:02:44+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000798s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000984s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001761s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000239s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013525s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015611s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015898s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016180s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001032s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016680s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2014-10-21T17:02:44+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:02:44+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:02:44+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:02:44+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:02:44+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:02:44+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:02:44+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:02:59+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000795s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002076s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000521s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005744s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.008408s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008664s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008886s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009033s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001036s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009536s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2014-10-21T17:02:59+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:02:59+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:02:59+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:02:59+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:02:59+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:02:59+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:02:59+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:03:00+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001461s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001798s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002127s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000366s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012841s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015410s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015897s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016300s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001336s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016766s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2014-10-21T17:03:00+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:03:00+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:03:00+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:03:00+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:03:00+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:03:00+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:03:00+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:05:22+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000621s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001008s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000166s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010818s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012068s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012482s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012779s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012935s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001255s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013380s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2014-10-21T17:05:22+08:00 ] ERR: (ThinkException) 非法操作:Tpl
+[ 2014-10-21T17:05:22+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:05:22+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:05:22+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:05:22+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:05:22+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:05:22+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:07+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000326s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001689s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000388s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002117s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012656s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014844s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015362s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015835s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001862s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016779s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000822s ]
+
+[ 2014-10-21T17:06:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:07+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:07+08:00 ] ERR: (ThinkException) 无法加载模块:Tpl
+[ 2014-10-21T17:06:07+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:28+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000477s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001143s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000558s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013428s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015207s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015560s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015827s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015975s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001084s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016342s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2014-10-21T17:06:28+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:28+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:28+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:28+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:28+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:28+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:44+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000531s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001027s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000238s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010551s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011858s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012066s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012255s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012378s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000757s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012645s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2014-10-21T17:06:44+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:44+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:44+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:44+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:44+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:44+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:44+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000317s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000632s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000144s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000792s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011220s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012056s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012355s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012633s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012812s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001101s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013211s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000307s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000612s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000140s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011270s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012066s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012267s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012449s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012566s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000729s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012824s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000311s ]
+
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000307s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000671s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000148s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011057s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011938s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012241s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012512s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001098s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013078s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:45+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:45+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000306s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000616s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000140s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011446s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012262s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012558s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012844s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013026s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001111s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013415s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2014-10-21T17:06:46+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:46+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:46+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:46+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:46+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:46+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:55+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000303s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000627s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000144s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011364s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012198s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012495s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012785s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012972s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001022s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013245s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2014-10-21T17:06:55+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:55+08:00 ] ERR: (ThinkException) 无法加载模块:Tpl
+[ 2014-10-21T17:06:55+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:55+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:55+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:55+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:55+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:56+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000312s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000618s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000140s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000773s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011300s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012104s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012313s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012499s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012626s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000753s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012886s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2014-10-21T17:06:56+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:56+08:00 ] ERR: (ThinkException) 无法加载模块:Tpl
+[ 2014-10-21T17:06:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:06:56+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:06:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:07+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000446s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000903s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000198s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012614s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013765s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013977s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014166s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014289s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000762s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014557s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2014-10-21T17:07:07+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:07:07+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:07:07+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:07:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:08+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000303s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000617s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000141s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000773s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011113s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011914s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012118s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012305s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000732s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012673s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2014-10-21T17:07:08+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:07:08+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:08+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:08+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:07:08+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:08+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:08+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:07:14+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000505s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001095s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000341s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001549s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012754s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014347s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014767s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015064s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001214s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2014-10-21T17:07:14+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:07:14+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:14+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:14+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:07:14+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:07:14+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:07:14+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:08:03+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000396s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001294s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000221s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012603s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014226s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014874s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015531s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015981s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002452s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016745s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2014-10-21T17:08:03+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:08:03+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:08:03+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:08:03+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:08:03+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:08:03+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:40:07+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000798s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000993s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002278s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000196s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014142s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014411s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014621s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014752s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000869s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015041s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2014-10-21T17:40:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:40:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:40:07+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:40:07+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:40:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:40:07+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:41:02+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000338s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000781s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000146s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000943s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011416s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012428s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012670s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012836s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012939s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000728s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013172s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2014-10-21T17:41:02+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:41:02+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:41:02+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:41:02+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:41:02+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:41:02+08:00 ] ERR: (ThinkException) 非法操作:{ WEB_PATH }
+[ 2014-10-21T17:41:02+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:56:15+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000768s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001249s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000250s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013084s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014647s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014941s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015194s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001003s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015695s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2014-10-21T17:56:16+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:56:16+08:00 ] ERR: (ThinkException) 非法操作:{ WEB_PATH }
+[ 2014-10-21T17:56:16+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:56:16+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:56:16+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:56:16+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:56:16+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:56:53+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000350s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000856s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000164s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010832s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011921s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012286s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012599s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012784s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001227s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013201s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2014-10-21T17:56:53+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:56:53+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:56:53+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:56:53+08:00 ] ERR: (ThinkException) 非法操作:{ $WEB_PATH }
+[ 2014-10-21T17:56:53+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:56:53+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:56:53+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:59:11+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000531s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000827s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000155s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000997s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012244s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013272s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013510s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013706s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013838s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000840s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014145s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:{ $WEB_PATH }
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:11+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000356s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000959s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000878s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001871s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013468s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015363s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015658s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016070s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001601s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.017048s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:{ $WEB_PATH }
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:11+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:59:56+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000318s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000870s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000166s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011468s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012579s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013511s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013993s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014256s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002229s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014861s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000564s ]
+
+[ 2014-10-21T17:59:56+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:59:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:56+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:59:56+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:57+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000524s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001583s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000258s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013840s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015725s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015933s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016117s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000742s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016496s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2014-10-21T17:59:57+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:57+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:57+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T17:59:57+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:59:57+08:00 ] ERR: (ThinkException) 非法操作:css
+[ 2014-10-21T17:59:57+08:00 ] ERR: (ThinkException) 非法操作:js
+[ 2014-10-21T18:01:19+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000345s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000828s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000159s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011057s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012117s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012455s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012991s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001640s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013806s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2014-10-21T18:01:19+08:00 ] ERR: (ThinkException) 非法操作:{$WEB_PATH}
+[ 2014-10-21T18:01:28+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000535s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001157s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000213s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015329s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.016750s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.016957s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.017146s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.017267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000752s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.017533s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2014-10-21T18:01:28+08:00 ] ERR: (ThinkException) 非法操作:{$WEB_PATH}
+[ 2014-10-21T18:03:26+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000350s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000788s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000168s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000976s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012600s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013603s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013813s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000747s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014378s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000304s ]
+
+[ 2014-10-21T18:03:26+08:00 ] ERR: (ThinkException) 非法操作:{$WEB_PATH}
+[ 2014-10-21T18:04:35+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000387s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000918s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000167s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001101s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010847s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011975s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012210s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012407s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012525s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000845s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012857s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2014-10-21T18:04:35+08:00 ] ERR: (ThinkException) 非法操作:{$WEB_PATH}
+[ 2014-10-21T18:04:36+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000917s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001032s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002272s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000533s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013713s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.016566s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.016900s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.017115s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.017232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000897s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.017485s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2014-10-21T18:04:36+08:00 ] ERR: (ThinkException) 非法操作:{$WEB_PATH}
+[ 2014-10-21T18:05:15+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000323s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000901s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000179s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011040s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012167s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012470s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012667s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001022s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013246s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2014-10-21T18:05:15+08:00 ] ERR: (ThinkException) 非法操作:{$WEB_PATH}
+[ 2014-10-21T18:05:18+08:00 ] ERR: (ThinkException) 非法操作:{}
+[ 2014-10-21T18:05:20+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000307s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000701s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000143s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011943s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012850s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013177s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013448s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001138s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014032s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2014-10-21T18:05:20+08:00 ] ERR: (ThinkException) 非法操作:{$WEB_PATH}
+[ 2014-10-21T18:05:56+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000327s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000776s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000154s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011079s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012053s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012247s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012403s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000651s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012731s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000271s ]
+
+[ 2014-10-21T18:05:56+08:00 ] ERR: (ThinkException) 非法操作:{$WEB_PATH}
+[ 2014-10-21T18:07:05+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000325s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000793s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000160s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000969s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012003s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012997s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013199s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013372s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000683s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013705s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2014-10-21T18:07:05+08:00 ] ERR: (ThinkException) 非法操作:{$WEB_PATH}
+[ 2014-10-21T18:07:43+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000316s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000723s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000142s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000882s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011043s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012022s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012477s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012826s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013010s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001657s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013763s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000758s ]
+
+[ 2014-10-21T18:07:43+08:00 ] ERR: (ThinkException) 非法操作:{$WEB_PATH}
+[ 2014-10-21T18:09:11+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000547s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001547s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000282s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013513s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015407s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015749s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016234s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001417s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016857s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2014-10-21T18:10:55+08:00 ] 0.0.0.0 /savour/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000431s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000766s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011451s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012422s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012728s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013005s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001102s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013568s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000471s ]
+

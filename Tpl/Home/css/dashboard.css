@@ -1,0 +1,72 @@
+/*body 中的container整体下移*/
+body { padding-top: 70px; overflow-x: hidden; min-width: 760px;}
+/*页面头部导航修改*/
+@media screen and (min-width: 768px) { /*大于768的尺寸*/
+    .navbar-nav { float: right; }  
+}
+/*导航修改*/
+@media screen and (max-width: 767px) { 
+    #nav { display: none; }
+}
+
+/*dashboard 左侧导航*/
+#nav-menu > li { margin-bottom: 3px; }
+.menuhere, .fakemenuhere { background: #eee; box-shadow: none; border-radius: 6px; font-size: 18px; color: #656565; }    
+.glyphicon { margin-right: 10px; }
+.nav>li>a:hover, .nav>li>a:focus { color: #fff; background: #484848; }
+.current { color: #fff !important; background: #484848 !important; }
+.submenu { background: #D2D7E4; box-shadow: none; border-radius: 6px; font-size: 16px; line-height: 16px; color: #656565; border: solid 1px #eee;}   
+
+/*title*/
+.forTr { height: 45px; }
+.titleTop { font-size: 18px; background: #eee; }
+.titleTop th { font-weight: bold; }
+th, td { text-align: center; }
+.titleNum { height: 150px; font-size: 90px; }
+.titleBottom { color: #fff; font-size: 18px; background: #484848; }
+
+/*top5*/
+.top5Num { font-size: 18px; }
+.top5Clothes { font-size: 18px; height: 130px; }
+.top5Clothes td { text-align: center; }
+
+/*choose*/
+.qSpan { margin-right: 10px; line-height: 3; }
+
+/*upload*/
+.fileinput-button { position: relative; overflow: hidden; }
+.fileinput-button input { position: absolute; top: 0; right: 0; margin: 0; opacity: 0; font-size: 200px; direction: ltr; cursor: pointer; }
+
+/*for add/edit Modal*/
+.glyphicon { position: initial; }
+.input-group-addon, .input-group-btn { width: 1% !important; }
+.modal-dialog { width: 500px; }
+.form-horizontal .form-group { margin-right: 30px; margin-left: 30px; }
+.modal-footer { margin-top: 0px; }
+
+/*for report*/
+.panel-body { padding: 0px; }
+.panel-primary { border-color: #fff; }
+.table { margin-bottom: 0px; }
+.panel { -webkit-box-shadow: none; box-shadow: none; }
+.panel-default { border-color: #fff; }
+.panel-default>.panel-heading { border: solid 1px #ddd; }
+th,td { text-align: center; line-height: 2 !important;}
+#fenye { float: right; }
+.panel-title { display: inline-block; line-height: 2; }
+.optionB { float: right; }
+.panel-default>.panel-heading { height: 56px; }
+.form-control { display: inline-block; width: 70%; margin-left: 22px; }
+.modal-body { text-align: center; }
+.glyphicon { margin-right: 10px; }
+.table-bordered { border: 0px; }
+.table-bordered>thead>tr>th, .table-bordered>thead>tr>td { border-bottom-width: 1px; }
+.option { width: 35px; height: 35px; border-radius: 20px; }
+.opspan { position: relative; top: 2px; left: -2px; }
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+    vertical-align: baseline; 
+}
+
+
+
+

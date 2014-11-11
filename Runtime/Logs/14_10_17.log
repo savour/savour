@@ -1,0 +1,104 @@
+[ 2014-10-17T17:03:30+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2014-10-17T17:03:32+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2014-10-17T17:05:03+08:00 ] ERR: (ThinkException) 无法加载模块:index
+[ 2014-10-17T17:09:23+08:00 ] ERR: (ThinkException) 模板不存在[./TplLogin/index.html]
+[ 2014-10-17T17:14:29+08:00 ] ERR: (ThinkException) 模板不存在[./TplLogin/index.html]
+[ 2014-10-17T17:14:33+08:00 ] ERR: (ThinkException) 模板不存在[./TplLogin/index.html]
+[ 2014-10-17T17:14:52+08:00 ] ERR: (ThinkException) 模板不存在[./TplLogin/index.html]
+[ 2014-10-17T17:14:53+08:00 ] ERR: (ThinkException) 模板不存在[./TplLogin/index.html]
+[ 2014-10-17T17:15:24+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:15:26+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:16:07+08:00 ] ERR: (ThinkException) 模板不存在[./TplLogin/index.html]
+[ 2014-10-17T17:16:08+08:00 ] ERR: (ThinkException) 模板不存在[./TplLogin/index.html]
+[ 2014-10-17T17:16:08+08:00 ] ERR: (ThinkException) 模板不存在[./TplLogin/index.html]
+[ 2014-10-17T17:16:18+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:16:19+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:16:19+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:16:19+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:16:19+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:26:18+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:26:18+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:33:20+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:33:23+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:33:25+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:33:25+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:33:29+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2014-10-17T17:33:38+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:34:26+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:34:27+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:34:27+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:34:27+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:34:28+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:34:29+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:34:29+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:34:29+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:34:29+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:35:37+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:36:12+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:36:16+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:42:14+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:44:22+08:00 ] 0.0.0.0 /savour/index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000249s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000155s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.000419s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008905s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009355s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009578s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009774s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009902s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000796s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010187s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2014-10-17T17:45:47+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:46:52+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:52:24+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:58:23+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:58:23+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:58:24+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:58:24+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:58:24+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:58:24+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T17:58:25+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:00:17+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:00:17+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:00:18+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:00:18+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:00:18+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:00:19+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:00:19+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:00:19+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:00:20+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:06:20+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:22+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:22+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:22+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:23+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:23+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:24+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:24+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:24+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:25+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:25+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:25+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:25+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:06:26+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:07:27+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:07:38+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:07:39+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:07:39+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:07:39+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:07:44+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2014-10-17T18:08:06+08:00 ] ERR: (ThinkException) 无法加载模块:Login
+[ 2014-10-17T18:11:15+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:11:35+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:11:35+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:11:35+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
+[ 2014-10-17T18:11:35+08:00 ] ERR: (ThinkException) 模板不存在[./Tpl/Login/index.html]
