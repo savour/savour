@@ -12,6 +12,13 @@ class IndexAction extends BaseAction{
     public function index(){   
         $this->display();
     }
+
+    //登出页面
+    public function logout(){
+        session_unset();
+        session_destroy();
+        $this->redirect('Index/index');
+    }
     
 }
 

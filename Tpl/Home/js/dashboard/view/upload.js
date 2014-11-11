@@ -9,10 +9,12 @@ define(function(require, exports, module) {
 
             //插件就不写event那种形式了
             $('#fileupload').fileupload({
-                url: "../../../fake/upload.json",
+                //url: "../../../fake/upload.json",
+                url: '../../../savour/Tpl/Home/fake/upload.json',
                 dataType: 'json',
                 done: function (e, data) {
                     alert("success!");
+
                 }
             });
         }

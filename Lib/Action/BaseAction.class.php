@@ -9,10 +9,7 @@
 class BaseAction extends Action{
 
     Public function _initialize(){
-        //action 初始化的时候定义常量
-        //define("FIRST_PAGE", "/".APP_NAME."/Tpl/Home");
-        //define("WEB_PATH","../../Tpl/Home");
-
+        
         // 初始化的时候检查用户权限
         //$this->checkRbac();
     }

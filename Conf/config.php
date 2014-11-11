@@ -28,6 +28,8 @@ return array(
     'URL_MODEL'=> 1,
     //伪静态地址，不设置默认是html
     'URL_HTML_SUFFIX'=> 'html',
+    //默认过滤函数
+    'DEFAULT_FILTER'=> 'htmlspecialchars',
 
 );
 ?>

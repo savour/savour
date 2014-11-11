@@ -9,7 +9,20 @@
 <!-- Bootstrap -->
 <link rel="stylesheet" type="text/css" href="__HOME__/css/global.css">
 <link rel="stylesheet" type="text/css" href="__HOME__/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="__HOME__/css/bootstrap-pagination.css">
+<link rel="stylesheet" type="text/css" href="__HOME__/css/daterangepicker-bs3.css">
 <link rel="stylesheet" type="text/css" href="__HOME__/css/dashboard.css">
+<script type="text/javascript">
+    //上传图片地址
+    var UPLOAD = "<?php echo U('Upload/post');?>";    
+    //各个页面的访问地址
+    var MYSAVOUR = "<?php echo U('Dashboard/mySavour');?>";
+    var UPMANAGE = "<?php echo U('Upmanage/index');?>";
+    //var MATCHCLOTHES = ;
+    // var SAVOURUPLOAD = ;
+    // var INEED = ;
+
+</script>
 </head>
 <body>
 
@@ -29,7 +42,7 @@
             <li class="active"><a href="">操作面板</a></li>
             <li><a href="./introduce.html">savour介绍</a></li>
             <li><a href="./contact.html">联系我们</a></li>
-            <li><a href="./index.html">去玩拼图</a></li>
+            <li><a href="<?php echo U('Index/logout');?>">去玩拼图</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
@@ -43,7 +56,6 @@
                 </div>
             </div>
             <div class="col-xs-12 col-sm-9" id="show">
-
             </div>
         </div>
         <hr>
@@ -56,6 +68,10 @@
     <script type="text/javascript" src="__HOME__/js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="__HOME__/js/respond.min.js"></script>
     <script type="text/javascript" src="__HOME__/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="__HOME__/js/bootstrap-paginator.min.js"></script>
+    <script type="text/javascript" src="__HOME__/js/moment.min.js"></script>
+    <script type="text/javascript" src="__HOME__/js/daterangepicker.js"></script>
+    <script type="text/javascript" src="__HOME__/js/dquery.js"></script>
     <script type="text/javascript" src="__HOME__/js/dashboard/lib/underscore-min.js"></script>
     <script type="text/javascript" src="__HOME__/js/dashboard/lib/backbone-min.js"></script>
     <script type="text/javascript" src="__HOME__/js/Juicer/build/juicer-min.js"></script>

@@ -8,7 +8,7 @@ define(function(require, exports, module) {
             // here is top
             $("#show").append('<div id="top" class="table-responsive"></div>');
             var top_model = Backbone.Model.extend({
-                url: '../../../savour/Tpl/Home/fake/top.json',
+                url: MYSAVOUR,
                 defaults: {
                     "view":  "mySavour",
                     "name":  "top"
@@ -23,7 +23,7 @@ define(function(require, exports, module) {
                     topView.render();
                  },
                  error:function(){
-                     alert("top error!");
+                     //alert("top error!");
                  }
              });
             //topView.model = topModel.save();
@@ -31,7 +31,7 @@ define(function(require, exports, module) {
             // here is colShow
             $("#show").append('<div id="colShow" style="min-width: 310px; height: 400px; margin: 100px auto"></div>');
             var colShow_model = Backbone.Model.extend({
-                url: '../../../savour/Tpl/Home/fake/topTitle.json',
+                url: MYSAVOUR,
                 defaults: {
                     "view":  "mySavour",
                     "name":  "colShow"
@@ -52,26 +52,26 @@ define(function(require, exports, module) {
             //topView.model = topModel.save();
 
             // here is top5
-            $("#show").append('<div class="table-responsive" id="top5"></div>');
-            var top5_model = Backbone.Model.extend({
-                url: '../../../savour/Tpl/Home/fake/top5.json',
-                defaults: {
-                    "view":  "mySavour",
-                    "name":  "top5"
-                }
-            });
-            var top5Model = new top5_model();
-            top5Model.save("author","Sunny",{
-                 success:function(model, text){
-                    var top5_view = require('top5_view');
-                    top5View = new  top5_view();
-                    top5View.model = text;
-                    top5View.render();
-                 },
-                 error:function(error){
-                     alert("top5 error!");
-                 }
-             });
+            // $("#show").append('<div class="table-responsive" id="top5"></div>');
+            // var top5_model = Backbone.Model.extend({
+            //     url: MYSAVOUR,
+            //     defaults: {
+            //         "view":  "mySavour",
+            //         "name":  "top5"
+            //     }
+            // });
+            // var top5Model = new top5_model();
+            // top5Model.save("author","Sunny",{
+            //      success:function(model, text){
+            //         var top5_view = require('top5_view');
+            //         top5View = new  top5_view();
+            //         top5View.model = text;
+            //         top5View.render();
+            //      },
+            //      error:function(error){
+            //          alert("top5 error!");
+            //      }
+            //  });
             //topView.model = topModel.save();
 
         }

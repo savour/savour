@@ -38,11 +38,10 @@ define(function(require, exports, module) {
             this.el.innerHTML = juicer(this.template, this.model.toJSON());
             var current = this.model.get('current');
             $("#"+current).addClass('current');
-            if ( current == "matchClothes") {
-                $('.submenu').show();
-            }else{
-                $('.submenu').hide();
-            };
+            //将子菜单先全部隐藏
+            $('.submenu').hide();
+            //如果是子菜单的话显示出来
+            $("#"+current).parent().parent().children().children('.submenu').show();   
         }
     }); 
 

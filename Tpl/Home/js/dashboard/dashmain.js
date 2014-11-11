@@ -8,6 +8,9 @@ seajs.config({
         "matchClothes": HOMEPATH+"/view/matchClothes.js",
         "savourUpload": HOMEPATH+"/view/savourUpload.js",
         "iNeed": HOMEPATH+"/view/iNeed.js",
+        "upManage": HOMEPATH+"/view/upManage.js",
+        "downManage": HOMEPATH+"/view/downManage.js",
+        "footManage": HOMEPATH+"/view/footManage.js",
 
         //view for page
         "top_view": HOMEPATH+"/view/top.js",
@@ -16,6 +19,7 @@ seajs.config({
         "choose_view": HOMEPATH+"/view/choose.js",
         "chooseResult_view": HOMEPATH+"/view/chooseResult.js",
         "upload_view": HOMEPATH+"/view/upload.js",
+        "report_view": HOMEPATH+"/view/report.js",
 
         //plugin for router
         "fileupload": HOMEPATH+"/lib/jquery.fileupload.js",

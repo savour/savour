@@ -38,3 +38,8 @@ model：savour/js/dashboard/model
 view：savour/js/dashboard/view
 controller：router.js
 template：savour/js/dashboard/tpl
+
+衣服映射关系
+1正式2休闲3运动
+
+

@@ -1,0 +1,30 @@
+[ 2014-11-10T16:08:22+08:00 ] 0.0.0.0 /savour/index.php/Upmanage/index.html
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001430s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001595s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Users/sunyan/Documents/myGithub/savour/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.003758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001693s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/sunyan/Documents/myGithub/savour/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `sv_up` [ RunTime:0.023486s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Users/sunyan/Documents/myGithub/savour/ThinkPHP/Lib/Core/Db.class.php 第 571 行.
+SQL: SELECT * FROM `sv_up`  [ RunTime:0.013899s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Users/sunyan/Documents/myGithub/savour/ThinkPHP/Lib/Core/Db.class.php 第 571 行.
+SQL: SELECT * FROM `sv_up` ORDER BY id asc LIMIT 0,10   [ RunTime:0.002487s ]
+
+[ 2014-11-10T16:08:24+08:00 ] 0.0.0.0 /savour/index.php/Upmanage/index.html
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000316s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000360s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Users/sunyan/Documents/myGithub/savour/ThinkPHP/Lib/Core/Dispatcher.class.php 第 120 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/sunyan/Documents/myGithub/savour/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `sv_up` [ RunTime:0.009198s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Users/sunyan/Documents/myGithub/savour/ThinkPHP/Lib/Core/Db.class.php 第 571 行.
+SQL: SELECT * FROM `sv_up`  [ RunTime:0.000267s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Users/sunyan/Documents/myGithub/savour/ThinkPHP/Lib/Core/Db.class.php 第 571 行.
+SQL: SELECT * FROM `sv_up` ORDER BY id asc LIMIT 10,10   [ RunTime:0.000168s ]
+

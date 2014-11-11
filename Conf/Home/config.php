@@ -14,6 +14,9 @@ return array(
         '__HOME__' => __ROOT__.'/'.APP_NAME.'/Tpl/Home',
 
         ),
+    //指定错误页面模板路径
+    //halt('该页面不存在')或者_404('该页面不存在')定制错误页面
+    //'TMPL_EXCEPTION_FILE'=>'/savour/Tpl/Home/error.html',
 
 );
 ?>

@@ -11,7 +11,10 @@ define(function(require, exports, module) {
             '!/mySavour': 'mySavour',
             '!/matchClothes': 'matchClothes',
             '!/savourUpload': 'savourUpload',
-            '!/iNeed': 'iNeed'
+            '!/iNeed': 'iNeed',
+            '!/upManage': 'upManage',
+            '!/downManage': 'downManage',
+            '!/footManage': 'footManage'
         },
         mySavour: function(){
 
@@ -44,7 +47,35 @@ define(function(require, exports, module) {
             iNeedView = new  iNeed_view();
             iNeedView.render();
 
-        }
+        },
+        upManage: function(){
+
+            navView.model.set('current', 'upManage'); 
+            require.async(['widget', 'fileupload'], function(w, f) {
+                var upManage_view = require('upManage');
+                upManageView = new  upManage_view();
+                upManageView.render();
+            });
+        },
+        downManage: function(){
+
+            navView.model.set('current', 'downManage'); 
+            require.async(['widget', 'fileupload'], function(w, f) {
+                var downManage_view = require('downManage');
+                downManageView = new  downManage_view();
+                downManageView.render();
+            });
+        },
+        footManage: function(){
+
+            navView.model.set('current', 'footManage');
+            require.async(['widget', 'fileupload'], function(w, f) { 
+                var footManage_view = require('footManage');
+                footManageView = new  footManage_view();
+                footManageView.render();
+            });
+        },
+
     });
     var router = new Router();
     Backbone.history.start();
